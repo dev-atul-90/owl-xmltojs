@@ -2,7 +2,7 @@
  Convert OWL(odoo) XML templates to js templates
 
 ## Install
-npm i -D owl-templates-plugin fast-glob
+npm i -D owl-xmltojs fast-glob
 
 ## Quick start (package.json config)
 Add in your app’s package.json:
